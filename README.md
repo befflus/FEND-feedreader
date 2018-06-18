@@ -27,7 +27,7 @@ In this project i have used Jasmine to write tests for a given web-based applica
 - The test results will be displayed at the bottom of the page. 
 - The spec file is in `./jasmine/spec/feedreader.js`
 
-- Alternatively, you can view the site on github pages by using the link: 
+- Alternatively, you can view the site on github pages by using the link: [Feedreader](https://befflus.github.io/FEND-feedreader/)
 
 
 ### References
