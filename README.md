@@ -1,6 +1,6 @@
-#Udacity Project: Feed Reader Testing
+# Udacity Project: Feed Reader Testing
 
-###Description 
+### Description 
 
 In this project i have used Jasmine to write tests for a given web-based application that reads RSS feeds.
 
@@ -20,7 +20,7 @@ In this project i have used Jasmine to write tests for a given web-based applica
 
 - Ensures when a new feed is loaded by the loadFeed function that the content actually changes.
 
-###How to run
+### How to run
 
 - Download repository to your computer. 
 - Open file `index.html` in browser. 
@@ -30,7 +30,7 @@ In this project i have used Jasmine to write tests for a given web-based applica
 - Alternatively, you can view the site on github pages by using the link: 
 
 
-###References
+### References
 
 References used in this project: 
 
